@@ -664,10 +664,10 @@ def get_file(type, date):
     time.sleep(5)
     # basedir = os.path.abspath(os.path.dirname(__file__))
     basedir = '/Users/mengbangjie/lianjia/LianJiaLogs'
-    base_path = basedir + '/logs/%s/' % type + date
+    base_path = basedir + '/%s/' % type + date
     # if not os.path.exists(base_path):
     #     os.mkdir(base_path)
-    base_file = base_path + '.txt'
+    base_file = base_path + '.txt_bak'
     return base_file
 
 
@@ -1060,13 +1060,13 @@ if __name__ == "__main__":
         read_xiaoqu(date)
     if types == 'ershoufang':
         # 爬下所有二手房的信息
-        do_ershoufang_spider(u'朝阳', date)
+        # do_ershoufang_spider(u'朝阳', date)
 
         # 一段时间内只入库一次，该表包括在售房的所有基础信息
-        # read_ershoufang(date)
+        read_ershoufang(date)
 
         # # 每天入库一次，更新在售房的总价和关注度
-        read_ershoufang_price(date)
+        # read_ershoufang_price(date)
 
     if types == 'chengjiao':
         # 爬下所有小区里的成交信息
