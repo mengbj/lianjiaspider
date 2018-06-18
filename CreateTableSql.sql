@@ -1,3 +1,5 @@
+--建表语句的SQL
+
 CREATE TABLE `ershoufang` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `url` varchar(200) DEFAULT NULL COMMENT '链接',
