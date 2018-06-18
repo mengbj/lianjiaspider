@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0302445-acb0-4d1e-af43-8f3941137f5b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LianJia/LianJiaSpider_ChengJiao.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LianJia/LianJiaSpider_ErShouFang.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py" afterPath="$PROJECT_DIR$/LianJia/LianJiaSpider_XiaoQu.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/LianJiaSpider.iml" afterPath="$PROJECT_DIR$/.idea/LianJiaSpider.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -25,11 +30,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LianJiaSpider_coroutine.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py">
+      <file leaf-file-name="LianJiaSpider_ErShouFang.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_ErShouFang.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19350">
-              <caret line="1075" column="22" lean-forward="false" selection-start-line="1075" selection-start-column="22" selection-end-line="1075" selection-end-column="22" />
+            <state relative-caret-position="527">
+              <caret line="628" column="0" lean-forward="true" selection-start-line="628" selection-start-column="0" selection-end-line="628" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LianJiaSpider_XiaoQu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_XiaoQu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="405" column="18" lean-forward="true" selection-start-line="405" selection-start-column="18" selection-end-line="405" selection-end-column="18" />
+              <folding>
+                <marker date="1529325200000" expanded="true" signature="13922:14186" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LianJiaSpider_ChengJiao.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_ChengJiao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1904">
+              <caret line="489" column="17" lean-forward="false" selection-start-line="489" selection-start-column="17" selection-end-line="489" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -48,18 +75,18 @@
       <file leaf-file-name="score.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LianJia/score.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1674">
-              <caret line="93" column="20" lean-forward="false" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+            <state relative-caret-position="90">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,9 +161,13 @@
         <option value="$PROJECT_DIR$/LianJia/score.py" />
         <option value="$PROJECT_DIR$/LianJia/.gitignore" />
         <option value="$PROJECT_DIR$/LianJia/LianJiaSpider.py" />
-        <option value="$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py" />
         <option value="$PROJECT_DIR$/tablesql" />
+        <option value="$PROJECT_DIR$/LianJia/LianJiaSpider_XiaoQu.py" />
+        <option value="$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py" />
+        <option value="$PROJECT_DIR$/LianJia/LianJiaSpider_ChengJiao.py" />
+        <option value="$PROJECT_DIR$/LianJia/LianJiaSpider_ErShouFang.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/LianJia/nohup.txt" />
       </list>
     </option>
   </component>
@@ -145,6 +176,25 @@
     <option name="y" value="23" />
     <option name="width" value="1243" />
     <option name="height" value="777" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyStatementEffectInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -195,18 +245,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/LianJia" />
-      <recent name="$PROJECT_DIR$/5i5j" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/LianJia" />
       <recent name="$PROJECT_DIR$/logs/LianJia" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LianJia" />
+      <recent name="$PROJECT_DIR$/5i5j" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,7 +271,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.LianJiaSpider_coroutine">
+    <configuration default="false" name="LianJiaSpider_coroutine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LianJia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LianJiaSpider" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LianJia/LianJiaSpider_ErShouFang.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,6 +354,14 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.LianJiaSpider_coroutine" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.LianJiaSpider_coroutine" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -301,13 +377,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="23" width="1243" height="777" extended-state="6" />
+    <frame x="37" y="23" width="1243" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23730224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -365,24 +441,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LianJia/score.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="80" column="17" lean-forward="false" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5i5j/wawj.py" />
-    <entry file="file://$PROJECT_DIR$/LianJia/README.md" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -523,14 +581,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5i5j/wawj.py" />
-    <entry file="file://$PROJECT_DIR$/LianJia/score.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="93" column="20" lean-forward="false" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logic.png" />
     <entry file="file://$PROJECT_DIR$/LianJia/test.py" />
     <entry file="file://$PROJECT_DIR$/LianJia/test.txt" />
@@ -560,18 +610,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py">
+    <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_XiaoQu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19350">
-          <caret line="1075" column="22" lean-forward="false" selection-start-line="1075" selection-start-column="22" selection-end-line="1075" selection-end-column="22" />
+        <state relative-caret-position="173">
+          <caret line="405" column="18" lean-forward="true" selection-start-line="405" selection-start-column="18" selection-end-line="405" selection-end-column="18" />
+          <folding>
+            <marker date="1529325200000" expanded="true" signature="13922:14186" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/__builtin__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="135" column="22" lean-forward="false" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LianJia/score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_ErShouFang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="628" column="0" lean-forward="true" selection-start-line="628" selection-start-column="0" selection-end-line="628" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LianJia/nohup.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14910">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_ChengJiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="489" column="17" lean-forward="false" selection-start-line="489" selection-start-column="17" selection-end-line="489" selection-end-column="17" />
           <folding />
         </state>
       </provider>
