@@ -1,6 +1,10 @@
-echo "# lianjiaspider" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:mengbj/lianjiaspider.git
-git push -u origin master
+网上抓取链家数据的爬虫很多
+但有几个问题：
+1、 在售二手房爬取的数据不全（实际在售二手房房源大概4万套），但由于每页展示30条，
+    但总共展示100页，也就是说爬取的仅仅是3000条在售二手房数据；
+2、 没有各个小区的物业信息，物业费用能反应一个小区的中高低档；
+3、 没有已成交记录的信息，并且近期链家对成交价格隐藏；
+
+这个网页抓取的脚本完美解决了以上问题；
+
+同时，技术上使用了多进程+多协程的方法，提高抓取效率；

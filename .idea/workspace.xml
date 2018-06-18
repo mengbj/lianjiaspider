@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0302445-acb0-4d1e-af43-8f3941137f5b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py" afterPath="$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,14 +18,9 @@
       <file leaf-file-name="LianJiaSpider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="12402">
               <caret line="689" column="24" lean-forward="false" selection-start-line="689" selection-start-column="24" selection-end-line="689" selection-end-column="24" />
-              <folding>
-                <element signature="e#32#44#0" expanded="true" />
-                <element signature="e#4178#4249#0" expanded="false" />
-                <element signature="e#10871#12910#0" expanded="false" />
-                <element signature="e#22984#23312#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -32,20 +28,18 @@
       <file leaf-file-name="LianJiaSpider_coroutine.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="661" column="0" lean-forward="false" selection-start-line="661" selection-start-column="0" selection-end-line="661" selection-end-column="0" />
-              <folding>
-                <element signature="e#32#44#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="19350">
+              <caret line="1075" column="22" lean-forward="false" selection-start-line="1075" selection-start-column="22" selection-end-line="1075" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tablesql" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tablesql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tablesql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+            <state relative-caret-position="2124">
+              <caret line="118" column="31" lean-forward="false" selection-start-line="118" selection-start-column="31" selection-end-line="118" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -54,18 +48,18 @@
       <file leaf-file-name="score.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LianJia/score.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1281">
+            <state relative-caret-position="1674">
               <caret line="93" column="20" lean-forward="false" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -140,9 +134,9 @@
         <option value="$PROJECT_DIR$/LianJia/score.py" />
         <option value="$PROJECT_DIR$/LianJia/.gitignore" />
         <option value="$PROJECT_DIR$/LianJia/LianJiaSpider.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py" />
         <option value="$PROJECT_DIR$/tablesql" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -152,6 +146,7 @@
     <option name="width" value="1243" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -168,6 +163,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -196,7 +192,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,17 +301,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="23" width="1243" height="777" extended-state="0" />
+    <frame x="37" y="23" width="1243" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23397169" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23730224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27153283" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.270073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -374,12 +369,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -406,12 +396,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -438,12 +423,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -469,12 +449,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16398">
           <caret line="992" column="25" lean-forward="true" selection-start-line="992" selection-start-column="25" selection-end-line="992" selection-end-column="25" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -482,12 +457,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9270">
           <caret line="600" column="0" lean-forward="true" selection-start-line="600" selection-start-column="0" selection-end-line="600" selection-end-column="0" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -497,12 +467,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="620" column="252" lean-forward="false" selection-start-line="620" selection-start-column="252" selection-end-line="620" selection-end-column="252" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -512,12 +477,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6822">
           <caret line="386" column="24" lean-forward="true" selection-start-line="386" selection-start-column="24" selection-end-line="386" selection-end-column="24" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -527,12 +487,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3312">
           <caret line="184" column="54" lean-forward="true" selection-start-line="184" selection-start-column="54" selection-end-line="184" selection-end-column="54" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -542,12 +497,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2358">
           <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -557,12 +507,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -580,7 +525,7 @@
     <entry file="file://$PROJECT_DIR$/5i5j/wawj.py" />
     <entry file="file://$PROJECT_DIR$/LianJia/score.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1281">
+        <state relative-caret-position="1674">
           <caret line="93" column="20" lean-forward="false" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
           <folding />
         </state>
@@ -601,39 +546,32 @@
     <entry file="file://$PROJECT_DIR$/screenshots/lianjia.jpg" />
     <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="12402">
           <caret line="689" column="24" lean-forward="false" selection-start-line="689" selection-start-column="24" selection-end-line="689" selection-end-column="24" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-            <element signature="e#4178#4249#0" expanded="false" />
-            <element signature="e#10871#12910#0" expanded="false" />
-            <element signature="e#22984#23312#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/tablesql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="2124">
+          <caret line="118" column="31" lean-forward="false" selection-start-line="118" selection-start-column="31" selection-end-line="118" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="661" column="0" lean-forward="false" selection-start-line="661" selection-start-column="0" selection-end-line="661" selection-end-column="0" />
-          <folding>
-            <element signature="e#32#44#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="19350">
+          <caret line="1075" column="22" lean-forward="false" selection-start-line="1075" selection-start-column="22" selection-end-line="1075" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tablesql">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
