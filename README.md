@@ -38,4 +38,4 @@
 ![思维导图](xmind_logic.png)
 
 ### 数据截图
-![北苑家园部分数据截图](screen.jp2)
+![北苑家园部分数据截图](screen.png)
