@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0302445-acb0-4d1e-af43-8f3941137f5b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LianJia/LianJiaSpider_ChengJiao.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LianJia/LianJiaSpider_ErShouFang.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py" afterPath="$PROJECT_DIR$/LianJia/LianJiaSpider_XiaoQu.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/LianJiaSpider.iml" afterPath="$PROJECT_DIR$/.idea/LianJiaSpider.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -33,8 +28,8 @@
       <file leaf-file-name="LianJiaSpider_ErShouFang.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_ErShouFang.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="628" column="0" lean-forward="true" selection-start-line="628" selection-start-column="0" selection-end-line="628" selection-end-column="0" />
+            <state relative-caret-position="158">
+              <caret line="490" column="6" lean-forward="false" selection-start-line="490" selection-start-column="6" selection-end-line="490" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -52,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LianJiaSpider_ChengJiao.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LianJiaSpider_ChengJiao.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_ChengJiao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1904">
-              <caret line="489" column="17" lean-forward="false" selection-start-line="489" selection-start-column="17" selection-end-line="489" selection-end-column="17" />
+            <state relative-caret-position="350">
+              <caret line="495" column="14" lean-forward="false" selection-start-line="495" selection-start-column="14" selection-end-line="495" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -82,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -166,8 +161,8 @@
         <option value="$PROJECT_DIR$/LianJia/LianJiaSpider_coroutine.py" />
         <option value="$PROJECT_DIR$/LianJia/LianJiaSpider_ChengJiao.py" />
         <option value="$PROJECT_DIR$/LianJia/LianJiaSpider_ErShouFang.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/LianJia/nohup.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -636,22 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_ErShouFang.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="628" column="0" lean-forward="true" selection-start-line="628" selection-start-column="0" selection-end-line="628" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LianJia/nohup.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14910">
@@ -662,8 +641,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_ChengJiao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="489" column="17" lean-forward="false" selection-start-line="489" selection-start-column="17" selection-end-line="489" selection-end-column="17" />
+        <state relative-caret-position="350">
+          <caret line="495" column="14" lean-forward="false" selection-start-line="495" selection-start-column="14" selection-end-line="495" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LianJia/LianJiaSpider_ErShouFang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="490" column="6" lean-forward="false" selection-start-line="490" selection-start-column="6" selection-end-line="490" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="43" />
           <folding />
         </state>
       </provider>
