@@ -37,5 +37,3 @@
 
 ![思维导图](xmind_logic.png)
 
-### 数据截图
-![二手房部分数据截图](screen.png)
