@@ -328,7 +328,7 @@ def do_ershoufang_spider(region, date):
     print '0' * 20
     # p = Pool(8)
     print "1" * 20
-    NUM = 5
+    NUM = 10
     for region in urls_dict:
         print region, "2" * 20
         for i, area in enumerate(urls_dict[region]):
@@ -340,11 +340,9 @@ def do_ershoufang_spider(region, date):
             print '1' * 20, i
             p.start()
             print '2' * 20, i
-            if not i % NUM == 0:
-                try:
-                    p.join()
-                except Exception, e:
-                    print e, '!!' * 20
+            if i % NUM == 0:
+                p.join()
+        p.join()
     p.join()
 
     # 多进程池
